@@ -5,7 +5,7 @@ public class Day1 {
 		// TODO Auto-generated method stub
 		System.out.println("Day 1 - My QA Automation journey starts today!");
         System.out.println("I am: Kalyani Patil");
-        System.out.println("Goal: Switch from Manual to Automation QA");
+        System.out.println("Goal:  Automation QA");
 
 	}
 
